@@ -1,1 +1,1 @@
-print("bong beo ")
+print("bi beo ")
